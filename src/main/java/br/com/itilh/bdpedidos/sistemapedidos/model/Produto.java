@@ -40,12 +40,10 @@ public class Produto {
     private String informacoes;
 
     public Object getImagemProduto() {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'getImagemProduto'");
     }
 
     public void setImagemProduto(Object imagemProduto) {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'setImagemProduto'");
     }
 
