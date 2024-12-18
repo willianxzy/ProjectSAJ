@@ -62,8 +62,8 @@ public class Cliente {
     @Column(name="bo_ativo")
     boolean ativo;
 
-    @Column(name="tx_informacoes")
-    private String informacao;
+    // @Column(name="tx_informacoes")
+    // private String informacao;
 
 
 }
