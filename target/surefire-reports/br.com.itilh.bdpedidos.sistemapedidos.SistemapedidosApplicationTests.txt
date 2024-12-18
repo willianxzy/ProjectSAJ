@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: br.com.itilh.bdpedidos.sistemapedidos.SistemapedidosApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.311 s -- in br.com.itilh.bdpedidos.sistemapedidos.SistemapedidosApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.740 s -- in br.com.itilh.bdpedidos.sistemapedidos.SistemapedidosApplicationTests
