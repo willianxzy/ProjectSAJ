@@ -36,8 +36,8 @@ public class Produto {
     @Column(name = "nu_preco_unidade_atual")
     private BigDecimal precoUnidadeAtual;
 
-    @Column(name = "tx_informacoes")
-    private String informacoes;
+    // @Column(name = "tx_informacoes")
+    // private String informacoes;
 
     // public Object getImagemProduto() {
     //     throw new UnsupportedOperationException("Unimplemented method 'getImagemProduto'");
