@@ -40,7 +40,7 @@ public class Produto {
     private String informacoes;
 
     public Object getImagemProduto() {
-        throw new UnsupportedOperationException("Unimplemented method 'getImagemProduto'");
+        return this.imagemProduto;
     }
 
     public void setImagemProduto(Object imagemProduto) {
