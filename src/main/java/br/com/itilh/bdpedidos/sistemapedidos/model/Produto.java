@@ -39,14 +39,14 @@ public class Produto {
     // @Column(name = "tx_informacoes")
     // private String informacoes;
 
-    // public Object getImagemProduto() {
-    //     throw new UnsupportedOperationException("Unimplemented method 'getImagemProduto'");
-    // }
+    public Object getImagemProduto() {
+        throw new UnsupportedOperationException("Unimplemented method 'getImagemProduto'");
+    }
 
     public void setImagemProduto(Object imagemProduto) {
         throw new UnsupportedOperationException("Unimplemented method 'setImagemProduto'");
     }
 
-    // @Column(name = "product_img")
-    // private byte[] imagemProduto;
+    @Column(name = "product_img")
+    private byte[] imagemProduto;
 }
