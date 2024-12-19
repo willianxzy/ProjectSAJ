@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import br.com.itilh.bdpedidos.sistemapedidos.model.Municipio;
-import br.com.itilh.bdpedidos.sistemapedidos.service.MunicipioService;
+import br.com.itilh.bdpedidos.sistemapedidos.services.MunicipioService;
 
 
 

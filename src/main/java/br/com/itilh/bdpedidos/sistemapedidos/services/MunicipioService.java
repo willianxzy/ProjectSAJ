@@ -1,4 +1,4 @@
-package br.com.itilh.bdpedidos.sistemapedidos.service;
+package br.com.itilh.bdpedidos.sistemapedidos.services;
 
 import java.math.BigInteger;
 import java.util.List;
